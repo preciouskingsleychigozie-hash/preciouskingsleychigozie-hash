@@ -1,4 +1,4 @@
-# Precious Kingsley Chigozie 📊  
+# 😎 Precious Kingsley Chigozie   😎
 **Aspiring Data Analyst | Insights Explorer | AI & Cloud Data Learner**  
 
 > **"Data as My Compass: Navigating from Curiosity to Clarity in the World of Analytics"**  
@@ -20,10 +20,9 @@ My story? It kicked off with free online courses and late-night Excel experiment
 | **Tool/Tech** | **Learning Journey** | **Hands-On Wins** |
 |---------------|----------------------|-------------------|
 | **SQL & Querying** | 🏆 Strong Foundation | Built queries on public datasets to analyze 1K+ rows of weather patterns for a personal project. |
-| **Excel & Google Sheets** | 🎯 Building Momentum | Cleaned and organized 500+ entries for budget tracking, creating pivot tables and charts in under a week. |
 | **Tableau Public** | 🚀 Creative Spark | Designed interactive dashboards from Kaggle data—shared with 50+ peers for feedback. |
-| **Power BI** | 📈 First Steps | Built interactive reports connecting Excel data to visualize project timelines and performance metrics. |
-| **Excel Charts** | 🔄 Exploring | Created dynamic charts to visualize personal progress data and share insights with study groups. |
+| **Power BI** | 🏆 Strong Foundation | Built interactive reports connecting Excel data to visualize project timelines and performance metrics. |
+| **Excel Charts** | 📈 Exploring | Created dynamic charts to visualize personal progress data and share insights with study groups. |
 
 *Milestone: Completed 10+ free courses (Coursera, freeCodeCamp), analyzed 5 public datasets, and shared learnings with NextWork student groups. My "portfolio stats" are growing daily—check 'em out below!*
 
